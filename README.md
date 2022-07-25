@@ -30,7 +30,7 @@ Em transição de carreira para Desenvolvedora Full Stack, oficialmente sou uma 
 ##
 <p align="center">
 <a href="https://github.com/amandagayotto">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandagayotto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandagayotto&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandagayotto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandagayotto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
