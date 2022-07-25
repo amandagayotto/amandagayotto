@@ -3,7 +3,7 @@
  
 ### Olá! Bem vindo ao meu GitHub!👋
 
-Moro no interior de São Paulo, tenho 32 anos, e sou formada em Arquitetura pela Universidade Estadual de Maringá. Atualmente me encontro em um novo desafio, estou estudando Desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, e iniciando no universo da programação.                                                         
+Moro no interior de São Paulo, tenho 32 anos, e sou formada em Arquitetura pela Universidade Estadual de Maringá. Hoje me encontro em um novo desafio, estou estudando Desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, e iniciando no universo da programação.                                                         
 Em transição de carreira para Desenvolvedora Full Stack, oficialmente sou uma caçadora de bugs.
 
 - :rocket: Aprendendo BackEnd
